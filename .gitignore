@@ -1,28 +1,24 @@
 .ipynb_checkpoints/
 *.zip
-*.npy
+
 
 .ipynb_checkpoints/
 *.zip
-*.npy
+
 *.npz
-dataset_Mukesh/
 data/
 B-CARS and SR data/
 
 .ipynb_checkpoints/
 *.zip
-*.npy
+
 *.npz
 data/
-dataset_Mukesh/
 B-CARS and SR data/
 
 2000 examples for CARS and Raman Synthetic data.ipynb.ipynb_checkpoints/
 *.zip
-*.npy
 *.npz
 data/
-dataset_Mukesh/
 B-CARS and SR data/
 2000 examples for CARS and Raman Synthetic data.ipynb
